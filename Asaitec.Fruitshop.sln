@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asaitec.Fruitshop.Web.FrontEnd", "Asaitec.Fruitshop.Web.FrontEnd\Asaitec.Fruitshop.Web.FrontEnd.csproj", "{F6AEA213-FCF6-4042-B170-C6F6ABD27E7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asaitec.Fruitshop", "Asaitec.Fruitshop\Asaitec.Fruitshop.csproj", "{FC6A1893-E317-45A0-96C7-6C4EC69BFED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6AEA213-FCF6-4042-B170-C6F6ABD27E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AEA213-FCF6-4042-B170-C6F6ABD27E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AEA213-FCF6-4042-B170-C6F6ABD27E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AEA213-FCF6-4042-B170-C6F6ABD27E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC6A1893-E317-45A0-96C7-6C4EC69BFED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6A1893-E317-45A0-96C7-6C4EC69BFED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6A1893-E317-45A0-96C7-6C4EC69BFED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6A1893-E317-45A0-96C7-6C4EC69BFED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E19F6389-B673-4FF4-9715-0978F2A0874F}
+	EndGlobalSection
+EndGlobal
